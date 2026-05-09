@@ -1,4 +1,4 @@
-
+Enhance Craft for macOS with Craft for macOS secure Addon - OCR scanning and version history, the #1 addon. Includes OCR scanning and version history for a smoother experience.
 
 
 
